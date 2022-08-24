@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @mohammedimrank
-- 👀 I’m interested in learning and exploring things around Kubernetes, GCP and GoLang
+- 👀 I’m interested in learning and exploring things around Kubernetes, Cloud(GCP), Distributed architecture and GoLang
 - 🌱 I’m currently learning GoLang in depth
+- 💬 Ask me about GoLang, Kubernetes, GCP, AWS, Node.js 
+- 📫 Know more about me: https://www.linkedin.com/in/mohammed-imran-kasab/
+- 😄 Pronouns: He/Hi
 
 
 <!---
